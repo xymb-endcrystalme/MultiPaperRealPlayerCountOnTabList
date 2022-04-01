@@ -1,0 +1,7 @@
+main: xymb.multipaperrealplayercountontablist.Main
+name: multipaperrealplayercountontablist
+version: 1.0
+api-version: 1.18
+author: Xymb
+description: Real playercount on TabList for MultiPaper
+depend: [PlaceholderAPI]
